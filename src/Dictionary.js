@@ -25,7 +25,13 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
       <form onSubmit={search}>
-        <input type="search" onChange={handleKeywordChange} />
+        <label> What do you want to know?</label>
+        <input
+          type="search"
+          placeholder="i.e sunset, wine, snow"
+          onChange={handleKeywordChange}
+          class="search-input"
+        />
         <Results results={results} />
       </form>
     </div>
