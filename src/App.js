@@ -12,8 +12,9 @@ function App() {
         </main>
         <br />
         <footer className="App-footer">
-          coded by Rebecca N. and hosted on{" "}
-          <a href="https://trymydictionary.netlify.app/">Nelify</a>
+          coded by Rebecca N. It is open sourced on{" "}
+          <a href="https://github.com/RebeccaNiem/my-dictionary">Github</a> and{" "}
+          is hosted on <a href="https://trymydictionary.netlify.app/">Nelify</a>
         </footer>
       </div>
     </div>
