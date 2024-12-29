@@ -10,7 +10,11 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">coded by Rebecca N.</footer>
+        <br />
+        <footer className="App-footer">
+          coded by Rebecca N. and hosted on{" "}
+          <a href="https://trymydictionary.netlify.app/">Nelify</a>
+        </footer>
       </div>
     </div>
   );
