@@ -10,3 +10,12 @@
 body {
   background: #f9f8fe;
 }
+
+a {
+  color: #2c215f;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}

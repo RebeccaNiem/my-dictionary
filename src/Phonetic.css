@@ -13,6 +13,10 @@
   height: 40px;
 }
 
+.Phonetic h2 {
+  height: 50px;
+}
+
 .Phonetic a:hover {
   background: #9670f4;
   color: white;
