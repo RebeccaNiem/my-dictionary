@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="love" />
         </main>
         <br />
         <footer className="App-footer">
